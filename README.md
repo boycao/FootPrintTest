@@ -15,8 +15,11 @@ You will need:
 [IntelliJ Ultimate Edition](https://www.jetbrains.com/idea/)
 
 You will also need the following plugins installed into IntelliJ. 
+
 Follow these two links to find out how:
+
 [FootPrint](https://github.com/cnhguy/FootPrint)
+
 [Chronon](https://blog.jetbrains.com/idea/2014/03/try-chronon-debugger-with-intellij-idea-13-1-eap/) * Requires IntelliJ Ultimate Edition *
 
 ## Conducting the test: 
