@@ -29,7 +29,7 @@ Open src/Main.java in IntelliJ and set a breakpoint at the very bottom (line 75)
 
 Change the file name on line 74 to FootPrint.txt
 
-Click on the FootPrint icon and the pre-processing time will print to a file in the same directory called FootPrint.txt. Repeat several times as you conduct more trials. The results will be appended to FootPrint.txt. 
+Click on the FootPrint icon and the pre-processing time will print to a file in your current directory called FootPrint.txt. Repeat several times as you conduct more trials. The results will be appended to FootPrint.txt. 
 
 ### To test Chronon:
 
@@ -37,7 +37,7 @@ Open src/Main.java in IntelliJ.
 
 Change the file name on line 74 to Chronon.txt
 
-Click on the Chronon icon and the pre-processing time will print to a file in the same directory called Chronon.txt.
+Click on the Chronon icon and the pre-processing time will print to a file in your current directory called Chronon.txt.
 Repeat several times as you conduct more trials. The results will be appended to Chronon.txt. 
 
 ## Running scripts:
