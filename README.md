@@ -12,11 +12,12 @@ The goal of this test is to measure the preprocessing time it takes for Chronon 
 3) Paste the URL from step 1 into the URL field and choose your desired directory and hit Clone
 
 You will need: 
-[IntelliJ Ultimate Edition] (https://www.jetbrains.com/idea/)
+[IntelliJ Ultimate Edition](https://www.jetbrains.com/idea/)
 
-You will also need the following plugins installed into IntelliJ. Follow these two links to find out how:
-[FootPrint] (https://github.com/cnhguy/FootPrint)
-[Chronon] (https://blog.jetbrains.com/idea/2014/03/try-chronon-debugger-with-intellij-idea-13-1-eap/) * Requires IntelliJ Ultimate Edition *
+You will also need the following plugins installed into IntelliJ. 
+Follow these two links to find out how:
+[FootPrint](https://github.com/cnhguy/FootPrint)
+[Chronon](https://blog.jetbrains.com/idea/2014/03/try-chronon-debugger-with-intellij-idea-13-1-eap/) * Requires IntelliJ Ultimate Edition *
 
 ## Conducting the test: 
 ### To test FootPrint:
